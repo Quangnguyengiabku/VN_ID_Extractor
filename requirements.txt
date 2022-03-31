@@ -1,0 +1,12 @@
+opencv-python==4.5.3.56
+imutils
+matplotlib
+pylsd
+lsd
+ocrd-fork-pylsd==0.0.3
+scipy
+pytesseract
+vietocr
+torch
+torchvision
+pyyaml
