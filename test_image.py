@@ -18,7 +18,6 @@ count=0
 img_counter = 0
 dir=os.path.join('Image_test')
 listfile=os.listdir(dir)
-cam = cv2.VideoCapture(0)
 for file in listfile:
     count+=1
     print(str(count)+':'+file) 
